@@ -1,0 +1,5 @@
+{
+  "name": "Impostor Game Board",
+  "description": "A fully interactive mobile-first social deduction game app with player configuration, role assignment, discussion timers, and voting systems.",
+  "requestFramePermissions": []
+}
